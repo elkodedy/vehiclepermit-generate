@@ -1,0 +1,114 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"document_number": "00006/IN-IMIP/BRG/MWL/V/2023",
+			"name": "ELKO DEDY PRATAMA",
+			"description": "Product Description",
+			"image": "bamboo-watch.jpg",
+			"type": "Barang Masuk",
+			"company": "IMIP",
+			"created_by": "ELKO DEDY PRATAMA",
+			"permitStatus": "Pending"
+		},
+		{
+			"id": "1001",
+			"document_number": "00007/IN-IMIP/BRG/MWL/V/2023",
+			"name": "FEBRIA ALVIONITA",
+			"description": "Product Description",
+			"image": "black-watch.jpg",
+			"type": "Barang Masuk",
+			"company": "IMIP",
+			"created_by": "FEBRIA ALVIONITA",
+			"permitStatus": "Pending"
+		},
+		{
+			"id": "1002",
+			"document_number": "00009/IN-IMIP/BRG/MWL/V/2023",
+			"name": "FEBRIA ALVIONITA",
+			"description": "Product Description",
+			"image": "blue-band.jpg",
+			"type": "Barang Masuk",
+			"company": "Tenant",
+			"created_by": "FEBRIA ALVIONITA",
+			"permitStatus": "Approved"
+		},
+		{
+			"id": "1003",
+			"document_number": "00002/OUT-IMIP/BRG/MWL/V/2023",
+			"name": "I WAYAN TISNA ADIMULIARTA",
+			"description": "Product Description",
+			"image": "blue-t-shirt.jpg",
+			"type": "Barang Keluar",
+			"company": "MSS",
+			"created_by": "I WAYAN TISNA ADIMULIARTA",
+			"permitStatus": "Pending"
+		},
+		{
+			"id": "1004",
+			"document_number": "00011/IN-IMIP/BRG/MWL/V/2023",
+			"name": "HEVI SISWOYO",
+			"description": "Product Description",
+			"image": "bracelet.jpg",
+			"type": "Barang Masuk",
+			"company": "IMIP",
+			"created_by": "HEVI SISWOYO",
+			"permitStatus": "Closed"
+		},
+		{
+			"id": "1005",
+			"document_number": "00016/IN-IMIP/BRG/MWL/V/2023",
+			"name": "I WAYAN TISNA ADIMULIARTA",
+			"description": "Product Description",
+			"image": "brown-purse.jpg",
+			"type": "Barang Masuk",
+			"company": "IMIP",
+			"created_by": "I WAYAN TISNA ADIMULIARTA",
+			"permitStatus": "Rejected"
+		},
+		{
+			"id": "1006",
+			"document_number": "00017/OUT-IMIP/BRG/MWL/V/2023",
+			"name": "YUSTIN ROMBE PAIRUNAN",
+			"description": "Product Description",
+			"image": "chakra-bracelet.jpg",
+			"type": "Barang Keluar",
+			"company": "IMIP",
+			"created_by": "YUSTIN ROMBE PAIRUNAN",
+			"permitStatus": "Closed"
+		},
+		{
+			"id": "1007",
+			"document_number": "00026/IN-IMIP/BRG/MWL/V/2023",
+			"name": "ELKO DEDY PRATAMA",
+			"description": "Product Description",
+			"image": "galaxy-earrings.jpg",
+			"type": "Barang Masuk",
+			"company": "IMIP",
+			"created_by": "ELKO DEDY PRATAMA",
+			"permitStatus": "Pending"
+		},
+		{
+			"id": "1008",
+			"document_number": "00028/IN-IMIP/BRG/MWL/V/2023",
+			"name": "ELKO DEDY PRATAMA",
+			"description": "Product Description",
+			"image": "game-controller.jpg",
+			"type": "Barang Masuk",
+			"company": "MSI",
+			"created_by": "ELKO DEDY PRATAMA",
+			"permitStatus": "Approved"
+		},
+		{
+			"id": "1009",
+			"document_number": "00029/IN-IMIP/BRG/MWL/V/2023",
+			"name": "YUSTIN ROMBE PAIRUNAN",
+			"description": "Product Description",
+			"image": "gaming-set.jpg",
+			"type": "Barang Masuk",
+			"company": "MSI",
+			"created_by": "YUSTIN ROMBE PAIRUNAN",
+			"permitStatus": "Rejected"
+		}
+	]
+}
